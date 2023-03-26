@@ -5,6 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-<p>Hello World from JSP</p>
+<p>Hello W</p>
 </body>
 </html>
